@@ -1,3 +1,3 @@
 # finger
 
-**finger** is an finger-protocol client.
+**finger** is a modern **finger-protocol** **client**.
