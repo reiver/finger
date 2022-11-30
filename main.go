@@ -217,9 +217,10 @@ func main() {
 	// Send the contents of the finger-protocol response,
 	// from the finger-protocol server, to STDOUT.
 	//
-	// This way the user can see.
+	// This way the user can see it.
 	// Or it can be piped to another program.
-	// Etc.
+	// Or saved to a file.
+	// Or whatever.
 	{
 		io.Copy(os.Stdout, responseReader)
 	}
