@@ -25,8 +25,10 @@ The way you can understand this is:
            \_____/ \_________/
              |           |
          a person      a community
-             or
-         a service
+             or           named
+         a service     “example.com”
+           named
+         “joeblow”
 ```
 
 So with this query —
