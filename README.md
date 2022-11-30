@@ -2,6 +2,9 @@
 
 **finger** is a modern **finger-protocol** **client**.
 
+The **fingerverse** (i.e., the collection of finger-sites) is an early Internet-based social networks, with its origins in the early 1970s.
+Like with a lot of things from the early Internet — the fingervese is a decentralized network.
+
 ## Try It Out
 
 Once you have `finger` installed, try running this command:
