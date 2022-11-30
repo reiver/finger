@@ -1,0 +1,6 @@
+github.com/reiver/go-fck v0.0.1 h1:GhOiIp/4Au3iPUVC1YRfJJS5CdvLDNF9qt/n1lwgWnM=
+github.com/reiver/go-fck v0.0.1/go.mod h1:i77J0nD9GkSF0osPcURZbv9u19F0keF/mrhkgIu9wvM=
+github.com/reiver/go-finger v0.0.0-20221127104111-3026856318bb h1:NvUmNIlvYRVt1DumbUbk110Vpt7gjf1RhxN5GtD0yKQ=
+github.com/reiver/go-finger v0.0.0-20221127104111-3026856318bb/go.mod h1:ym/u/zJyiJ14l8sb3WbwvecA+G0a6YIJldmx7EBVzBM=
+github.com/reiver/go-utf8 v2.0.1+incompatible h1:f1rRbwTIcUaX+1wnLM1+FWelKegAxTURE9MkZCRVOPM=
+github.com/reiver/go-utf8 v2.0.1+incompatible/go.mod h1:tfGntNDUeEZIAsz0mTu0lF7/IlErc+BpQgO6yxYmJig=
