@@ -64,6 +64,8 @@ finger @example.com@changelog.ca
 finger dariush@once.com@twice.net@thrice.org@fource.net
 finger /PULL charlie@changelog.ca
 finger /PUSH malekeh@changelog.ca
+finger /LIST dariush@changelog.ca
+finger /PICK elizabeth@changelog.ca
 finger /path/to/something.ext
 finger /path/to/something.ext joeblow@example.com
 finger /path/to/something.ext joeblow@example.com@changelog.ca
