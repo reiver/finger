@@ -47,6 +47,12 @@ Here is how, in general, you can use `finger`:
 finger [/switch] [user][@host…]
 ```
 
+So we see that, `finger` can be called with:
+
+* an optional _switch_,
+* an optional _user_, and
+* zero, one, or many _@host_
+
 Here are a bunch of examples to try to help show what this really means:
 ```
 finger
