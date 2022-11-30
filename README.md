@@ -22,7 +22,7 @@ finger charles@finger.farm
 
 ## Finger Query
 
-The way you can understand this is:
+The way you can understand a finger-query is:
 ```
     finger joeblow@example.com
            \_____/ \_________/
