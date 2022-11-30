@@ -17,6 +17,23 @@ For example, here is a similar example usage of `finger` but with a different qu
 finger charles@finger.farm
 ```
 
+## Finger Query
+
+The way you can understand this is:
+```
+    finger joeblow@example.com
+           \_____/ \_________/
+             |           |
+         a person      a community
+             or
+         a service
+```
+
+So with this query —
+
+* there is a community (running on a computer connected to the Internet) called “`example.com`”, and
+* there is a person (within that community) whose username is “`joeblow`”.
+
 ## Usage
 
 Here is how, in general, you can use `finger`:
