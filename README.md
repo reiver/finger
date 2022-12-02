@@ -99,3 +99,24 @@ It is that simple.
 But some do not.)
 
 ## Custom Switches
+
+`finger` allows for **custom switches**.
+
+I.e., **switches** other than '/W'
+
+So, for example, if we wanted to do a **finger-request** with a (custom) `/PULL` switch, then we could do it like this:
+```
+finger /PULL reiver@plan.cat
+```
+
+We could also use any other name:
+
+```
+finger /PUSH reiver@plan.cat
+finger /LIST reiver@plan.cat
+finger /BANANA reiver@plan.cat
+```
+
+It is up to the **finger-server** if it will handle the customer **switch** or not.
+It might not.
+
