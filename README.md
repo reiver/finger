@@ -12,7 +12,7 @@ Once you have `finger` installed, try running this command:
 finger reiver@plan.cat
 ```
 
-Although there are other ways you can use `finger`— in most case, you are probably going to use `finger` in this way.
+Although there are other ways you can use `finger` — in most case, you are probably going to use `finger` in this way.
 But just with a different query.
 
 For example, here is a similar example usage of `finger` but with a different query (of the same `user@host` type):
@@ -76,3 +76,26 @@ finger /path/to/something.ext
 finger /path/to/something.ext joeblow@example.com
 finger /path/to/something.ext joeblow@example.com@changelog.ca
 ```
+## Whois Switch
+
+Traditionally you could get more information if you use something called the **whois switch**.
+
+The way you can use the **whois switch** is like this —
+
+If this is what you planned to query (without the whois switch):
+```
+finger reiver@plan.cat
+```
+
+Then to add the **whois switch** do this:
+```
+finger /W reiver@plan.cat
+```
+
+Note that the `/W` was added in the middle.
+It is that simple.
+
+(Although note that — some **finger-servers** show more information.
+But some do not.)
+
+## Custom Switches
