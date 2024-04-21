@@ -59,22 +59,22 @@ finger
 finger /W
 finger /W joeblow
 finger /W joeblow@example.com
-finger /W joeblow@example.com@changelog.ca
+finger /W joeblow@example.com@reiver.link
 finger /W @example.com
-finger /W @example.com@changelog.ca
+finger /W @example.com@reiver.link
 finger joeblow
 finger joeblow@example.com
-finger joeblow@example.com@changelog.ca
+finger joeblow@example.com@reiver.link
 finger @example.com
-finger @example.com@changelog.ca
+finger @example.com@reiver.link
 finger dariush@once.com@twice.net@thrice.org@fource.net
-finger /PULL charlie@changelog.ca
-finger /PUSH malekeh@changelog.ca
-finger /LIST dariush@changelog.ca
-finger /PICK elizabeth@changelog.ca
+finger /PULL charlie@reiver.link
+finger /PUSH malekeh@reiver.link
+finger /LIST dariush@reiver.link
+finger /PICK elizabeth@reiver.link
 finger /path/to/something.ext
 finger /path/to/something.ext joeblow@example.com
-finger /path/to/something.ext joeblow@example.com@changelog.ca
+finger /path/to/something.ext joeblow@example.com@reiver.link
 ```
 ## Whois Switch
 
