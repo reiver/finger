@@ -120,3 +120,6 @@ finger /BANANA reiver@plan.cat
 It is up to the **finger-server** if it will handle the customer **switch** or not.
 It might not.
 
+## Author
+
+Application **finger** was written by [Charles Iliya Krempeaux](http://reiver.link/)
