@@ -18,19 +18,19 @@ func main() {
 	//
 	// For example, if this program was called with the following command-line:
 	//
-	//	finger -v /W dariush@changelog.ca
+	//	finger -v /W dariush@reiver.link
 	//
 	// Then logically 'arguments' would be:
 	//
-	//	arguments == []string{"/W", "dariush@changelog.ca"}
+	//	arguments == []string{"/W", "dariush@reiver.link"}
 	//
 	// And also, for another example, if this program called with the following command-line:
 	//
-	//	finger -v dariush@changelog.ca
+	//	finger -v dariush@reiver.link
 	//
 	// Then logically 'arguments' would be:
 	//
-	//	arguments == []string{"dariush@changelog.ca"}
+	//	arguments == []string{"dariush@reiver.link"}
 	var arguments []string = arg.Values
 
 	// Here we see if there is a finger-protocol switch (as a string) from the command-line
@@ -43,12 +43,12 @@ func main() {
 	//
 	// And, for example:
 	//
-	//	finger /W dariush@changelog.ca
+	//	finger /W dariush@reiver.link
 	//	# switch -> "/W"
 	//
 	// Or, for example:
 	//
-	//	finger /W dariush@changelog.ca@example.com
+	//	finger /W dariush@reiver.link@example.com
 	//	# switch -> "/W"
 	//
 	// Or, alternatively, for example:
@@ -100,13 +100,13 @@ func main() {
 	//
 	// For example:
 	//
-	//	finger dariush@changelog.ca
-	//	# query -> "dariush@changelog.ca"
+	//	finger dariush@reiver.link
+	//	# query -> "dariush@reiver.link"
 	//
 	// Or, for example:
 	//
-	//	finger dariush@changelog.ca@example.com
-	//	# query -> "dariush@changelog.ca@example.com"
+	//	finger dariush@reiver.link@example.com
+	//	# query -> "dariush@reiver.link@example.com"
 	//
 	// Or, alternatively, for example:
 	//
